@@ -46,9 +46,9 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide hero-content-wrap" style="width: 867px;background-color: #007bff73;">
 			<div><center>
-				<form action="donatetoys1.jsp" method="post" enctype="multipart/form-data">
+				<form action="donatefood1.jsp" method="post" enctype="multipart/form-data">
 				<br><br>
-				<h1>Donate Toys</h1>
+				<h1>Donate Food</h1>
 				<br>
 				<table>
 				<tr><td style="margin-bottom: 30px;"><h4>Select Trust</h4></td></tr>

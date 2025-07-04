@@ -5,7 +5,7 @@ int x;
 ResultSet rs;
 
 String donor = (String) session.getAttribute("cemail");
-MultipartRequest m=new MultipartRequest(request,"D:/Charity/src/main/webapp/images/");
+MultipartRequest m=new MultipartRequest(request,"D:/Programming/Charity/src/main/webapp/images");
 String foodtype = m.getParameter("foodtype");
 String quantity = m.getParameter("quantity");
 String address = m.getParameter("address");
